@@ -27,9 +27,9 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-lg text-gray-600 dark:text-gray-300">
-                I'm a passionate web designer and developer with a keen eye for detail and a love for creating
-                seamless user experiences. With expertise in modern web technologies, I bring ideas to life
-                through clean, efficient code and stunning designs.
+                I&apos;m a passionate designer with a keen eye for detail and a love for creating
+                seamless user experiences. With expertise in modern web technologies, AI tools and automation workflows, I bring ideas to life
+                through clean, modern interfaces, interactivity and stunning design.
               </p>
               <p className="text-lg text-gray-600 dark:text-gray-300">
                 My approach combines technical excellence with creative problem-solving, ensuring that every
